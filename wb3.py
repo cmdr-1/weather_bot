@@ -1,4 +1,3 @@
-# Bot Link: t.me/mance_weatherbot
 # About: I tell the weather. That's my only purpose. End my existence please.
 # Desc: This bot was created for the sole purpose of qucikly finding the weather in a telegram group chat. its life is meaningless otherwise.
 
@@ -10,8 +9,8 @@ import logging
 import signal
 import sys
 
-TOKEN = "1807121721:AAGDyiqM3LAzWrFBHc0cwGkF1ofF9Rwy64A"
-OWM_KEY = "9e4fc6be7db5859fe1a4275322780fc5"
+TOKEN = "XXX"
+OWM_KEY = "XXX"
 POLLING_TIMEOUT = None
 
 # Lambda functions to parse updates from Telegram
